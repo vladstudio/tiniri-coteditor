@@ -10,6 +10,8 @@ Part of Tiniri set. Download other themes and wallpapers:
 
 To install:
 
-- download `cottheme` files
+- download `cottheme` files:
+  - [Tiniri (Dark).cottheme](<Tiniri (Dark).cottheme>)
+  - [Tiniri (Light).cottheme](<Tiniri (Light).cottheme>)
 - double-click each file
 - enjoy :-)
