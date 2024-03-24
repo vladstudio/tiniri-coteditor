@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#78716c"
+  },
+  "background" : {
+    "color" : "#faf7f0"
+  },
+  "characters" : {
+    "color" : "#78716c"
+  },
+  "commands" : {
+    "color" : "#78716c"
+  },
+  "comments" : {
+    "color" : "#a4a4a1"
+  },
+  "insertionPoint" : {
+    "color" : "#bd605b",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#b29084"
+  },
+  "keywords" : {
+    "color" : "#6c6c6c"
+  },
+  "lineHighlight" : {
+    "color" : "#efefef"
+  },
+  "metadata" : {
+    "author" : "Vlad Gerasimov",
+    "distributionURL" : "https:\/\/tiniri.vlad.studio"
+  },
+  "name" : "Tiniri Light",
+  "numbers" : {
+    "color" : "#bd605b"
+  },
+  "selection" : {
+    "color" : "#dae5e2",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#bd605b"
+  },
+  "text" : {
+    "color" : "#44403c"
+  },
+  "types" : {
+    "color" : "#6c6c6c"
+  },
+  "values" : {
+    "color" : "#bd605b"
+  },
+  "variables" : {
+    "color" : "#6c6c6c"
+  }
+}

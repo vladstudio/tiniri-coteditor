@@ -1,0 +1,57 @@
+{
+  "attributes" : {
+    "color" : "#857577"
+  },
+  "background" : {
+    "color" : "#1b1c1e"
+  },
+  "characters" : {
+    "color" : "#857577"
+  },
+  "commands" : {
+    "color" : "#857577"
+  },
+  "comments" : {
+    "color" : "#4b464a"
+  },
+  "insertionPoint" : {
+    "color" : "#b25b56",
+    "usesSystemSetting" : false
+  },
+  "invisibles" : {
+    "color" : "#857577"
+  },
+  "keywords" : {
+    "color" : "#a89080"
+  },
+  "lineHighlight" : {
+    "color" : "#efefef"
+  },
+  "metadata" : {
+    "author" : "Vlad Gerasimov",
+    "distributionURL" : "https:\/\/tiniri.vlad.studio"
+  },
+  "name" : "Tiniri Dark",
+  "numbers" : {
+    "color" : "#eb8042"
+  },
+  "selection" : {
+    "color" : "#353a42",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#eb8042"
+  },
+  "text" : {
+    "color" : "#c7bdb3"
+  },
+  "types" : {
+    "color" : "#a89080"
+  },
+  "values" : {
+    "color" : "#eb8042"
+  },
+  "variables" : {
+    "color" : "#a89080"
+  }
+}
