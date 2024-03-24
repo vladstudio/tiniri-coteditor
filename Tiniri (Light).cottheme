@@ -1,15 +1,15 @@
 {
   "attributes" : {
-    "color" : "#78716c"
+    "color" : "#356b94"
   },
   "background" : {
-    "color" : "#faf7f0"
+    "color" : "#faf8f4"
   },
   "characters" : {
-    "color" : "#78716c"
+    "color" : "#356b94"
   },
   "commands" : {
-    "color" : "#78716c"
+    "color" : "#356b94"
   },
   "comments" : {
     "color" : "#a4a4a1"
@@ -22,7 +22,7 @@
     "color" : "#b29084"
   },
   "keywords" : {
-    "color" : "#6c6c6c"
+    "color" : "#356b94"
   },
   "lineHighlight" : {
     "color" : "#efefef"
@@ -31,7 +31,7 @@
     "author" : "Vlad Gerasimov",
     "distributionURL" : "https:\/\/tiniri.vlad.studio"
   },
-  "name" : "Tiniri Light",
+  "name" : "Tiniri (Light)",
   "numbers" : {
     "color" : "#bd605b"
   },
@@ -46,12 +46,12 @@
     "color" : "#44403c"
   },
   "types" : {
-    "color" : "#6c6c6c"
+    "color" : "#356b94"
   },
   "values" : {
     "color" : "#bd605b"
   },
   "variables" : {
-    "color" : "#6c6c6c"
+    "color" : "#356b94"
   }
 }
