@@ -1,4 +1,4 @@
-## Tiniri CotEditor theme
+## Tiniri theme for [CotEditor](https://coteditor.com/)
 
 Part of Tiniri set. Download other themes and wallpapers:
 
