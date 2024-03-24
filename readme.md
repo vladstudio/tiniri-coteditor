@@ -13,5 +13,7 @@ To install:
 - download `cottheme` files (right-click and Save As...):
   - [Tiniri (Dark).cottheme](https://raw.githubusercontent.com/vladstudio/tiniri-coteditor/main/Tiniri%20(Dark).cottheme)
   - [Tiniri (Light).cottheme](https://raw.githubusercontent.com/vladstudio/tiniri-coteditor/main/Tiniri%20(Light).cottheme)
-- double-click each file
+- open CotEditor
+- open Settings
+- select Appearance, click ... button next on bottom, select Import
 - enjoy :-)
