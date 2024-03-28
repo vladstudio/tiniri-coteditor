@@ -1,28 +1,28 @@
 {
   "attributes" : {
-    "color" : "#356b94"
+    "color" : "#356B94"
   },
   "background" : {
-    "color" : "#faf8f4"
+    "color" : "#FCFBFA"
   },
   "characters" : {
-    "color" : "#356b94"
+    "color" : "#356B94"
   },
   "commands" : {
-    "color" : "#356b94"
+    "color" : "#356B94"
   },
   "comments" : {
-    "color" : "#a4a4a1"
+    "color" : "#D0BBB3"
   },
   "insertionPoint" : {
-    "color" : "#bd605b",
+    "color" : "#AD514C",
     "usesSystemSetting" : false
   },
   "invisibles" : {
-    "color" : "#b29084"
+    "color" : "#B29084"
   },
   "keywords" : {
-    "color" : "#356b94"
+    "color" : "#356B94"
   },
   "lineHighlight" : {
     "color" : "#efefef"
@@ -33,25 +33,25 @@
   },
   "name" : "Tiniri (Light)",
   "numbers" : {
-    "color" : "#bd605b"
+    "color" : "#AD514C"
   },
   "selection" : {
     "color" : "#dae5e2",
     "usesSystemSetting" : false
   },
   "strings" : {
-    "color" : "#bd605b"
+    "color" : "#AD514C"
   },
   "text" : {
-    "color" : "#44403c"
+    "color" : "#333231"
   },
   "types" : {
-    "color" : "#356b94"
+    "color" : "#356B94"
   },
   "values" : {
-    "color" : "#bd605b"
+    "color" : "#AD514C"
   },
   "variables" : {
-    "color" : "#356b94"
+    "color" : "#356B94"
   }
 }
